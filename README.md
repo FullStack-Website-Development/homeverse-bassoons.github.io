@@ -1,7 +1,7 @@
 # HOMEVERSE WEBSITE
 # REAL ESTATE
 
-# Live Demo: [here](https://mahn-bonnie.github.io/homeverse-bassoons.github.io/)
+# Live Demo: [here](https://fullstack-website-development.github.io/homeverse-bassoons.github.io/)
 
 # Description
 
